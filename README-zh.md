@@ -4,7 +4,7 @@
 
 关键字：**xls比较 xlsx比较 比对 diff compare excel sheet Spreadsheet**
 
-![Preview](https://github.com/orunco/xldiff-release/blob/master/preview.gif) 
+![Preview](https://github.com/orunco/xldiff-release/blob/main/preview.gif) 
 
 
 

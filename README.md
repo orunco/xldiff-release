@@ -4,7 +4,7 @@
 
 Keywords: **xls compare xlsx compare diff compare excel sheet Spreadsheet**
 
-![Preview](https://github.com/orunco/xldiff-release/blob/master/preview.gif)
+![Preview](https://github.com/orunco/xldiff-release/blob/main/preview.gif)
 
 You have two Excel workbooks, or two versions of the same workbook, and you want to see the changes between them. Alternatively, you may want to identify potential issues. Simple comparisons are always straightforward, such as:
 
